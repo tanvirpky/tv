@@ -2,6 +2,5 @@
 #SOURCEIT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",1.Zee Bangla HD
 http://str24.l9574.com:80/615.stream/index.m3u8
-New
-
-#EXTINF:1 tvg-id="avi" group-title="Videos",|IN| Badalte Rishtey 1978://172.102.0.7/data/tv-series/disk3/tvshow/korean/Hellbound/s01/Hellbound.S01E06.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mp4
+##EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",1.Zee Bangla 
+http://opplextv.cyou:8080/live/pisces/pisces/109947.ts
